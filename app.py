@@ -237,7 +237,7 @@ h1, h2, h3 { font-family: 'DM Serif Display', serif; }
 
 # --- HEADER ---
 st.title("Veteran Suicide in America")
-st.markdown("#### VA mental health care is working. Most at-risk veterans are not in it.")
+st.markdown("#### Veterans connected to VA care show slower rates of increase in suicide over two decades. Most veterans are not in it.")
 st.markdown("*Data: VA National Veteran Suicide Prevention Annual Report 2025 · CDC WISQARS · All rates age-adjusted per 100,000*")
 st.markdown("---")
 
