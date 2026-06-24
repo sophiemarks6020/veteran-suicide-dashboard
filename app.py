@@ -276,11 +276,14 @@ st.markdown("---")
 # ============================================================
 section_header("I", "The Scale")
 
-st.subheader("Veteran suicide rates have risen since 2001. Civilian rates have not.")
+st.subheader("Veteran suicide rates have risen dramatically since 2001.")
 st.markdown("""
-These are age-adjusted rates, controlling for the older average age of the veteran population.
-The divergence from civilian rates is not explained by demographics. Something beyond age
-is driving the gap, and it has been widening for over two decades.
+Both veteran and civilian suicide rates have risen since 2001. But the scale of increase
+among veterans is substantially larger. Civilian male rates rose approximately 27% from
+2001 to 2022. Civilian female rates rose approximately 45%. Veteran rates have risen
+further and faster, and the gap between veterans and civilians has widened over the same
+period. Age-adjusted rates control for the older average age of the veteran population,
+so the divergence is not explained by demographics.
 """)
 
 fig_trend = go.Figure()
