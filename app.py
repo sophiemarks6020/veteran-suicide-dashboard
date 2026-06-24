@@ -279,9 +279,7 @@ section_header("I", "The Scale")
 st.subheader("Veteran suicide rates have risen dramatically since 2001.")
 st.markdown("""
 Both veteran and civilian suicide rates have risen since 2001. But the scale of increase
-among veterans is substantially larger. Civilian male rates rose approximately 27% from
-2001 to 2022. Civilian female rates rose approximately 45%. Veteran rates have risen
-further and faster, and the gap between veterans and civilians has widened over the same
+among veterans is substantially larger. Veteran rates have risen further and faster, and the gap between veterans and civilians has widened over the same
 period. Age-adjusted rates control for the older average age of the veteran population,
 so the divergence is not explained by demographics.
 """)
